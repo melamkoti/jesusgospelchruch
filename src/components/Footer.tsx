@@ -52,7 +52,7 @@ export default function Footer() {
         <footer className="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-400">
   <p>&copy; 2025 Jesus Gospel Church. All rights reserved.</p>
   <p>
-    Website designed by <span className="font-semibold text-white">Melam Koteswaramma</span>
+    Website designed by <span className="font-semibold text-white">Melam Koti</span>
   </p>
 </footer>
 
